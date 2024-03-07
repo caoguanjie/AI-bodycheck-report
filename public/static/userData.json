@@ -1,0 +1,984 @@
+{
+    "RslCode": "1",
+    "RslMsg": "查询成功",
+    "Data": [
+        {
+            "UserName": "覃树林",
+            "NowPhysicalNum": "2023111700160"
+        },
+        {
+            "UserName": "江49",
+            "NowPhysicalNum": "R20240222001"
+        },
+        {
+            "UserName": "曾志坚",
+            "NowPhysicalNum": "R20240104009"
+        },
+        {
+            "UserName": "11",
+            "NowPhysicalNum": "R20240115002"
+        },
+        {
+            "UserName": "陈喜珍",
+            "NowPhysicalNum": "R20240111001"
+        },
+        {
+            "UserName": "颜洪宜",
+            "NowPhysicalNum": "R20240110001"
+        },
+        {
+            "UserName": "11",
+            "NowPhysicalNum": "R20240105001"
+        },
+        {
+            "UserName": "陆显武",
+            "NowPhysicalNum": "2023091200518"
+        },
+        {
+            "UserName": "江49",
+            "NowPhysicalNum": "R20230425001"
+        },
+        {
+            "UserName": "测试",
+            "NowPhysicalNum": "R20230909001"
+        },
+        {
+            "UserName": "江49",
+            "NowPhysicalNum": "R20230825001"
+        },
+        {
+            "UserName": "江49",
+            "NowPhysicalNum": "R20230412100"
+        },
+        {
+            "UserName": "冯俊",
+            "NowPhysicalNum": "R20230810001"
+        },
+        {
+            "UserName": "冯俊",
+            "NowPhysicalNum": "R20230809003"
+        },
+        {
+            "UserName": "冯俊",
+            "NowPhysicalNum": "R20230809002"
+        },
+        {
+            "UserName": "冯俊",
+            "NowPhysicalNum": "R20230807002"
+        },
+        {
+            "UserName": "冯俊",
+            "NowPhysicalNum": "R20230809001"
+        },
+        {
+            "UserName": "冯俊",
+            "NowPhysicalNum": "R20230807001"
+        },
+        {
+            "UserName": "测试",
+            "NowPhysicalNum": "R20230629001"
+        },
+        {
+            "UserName": "许平",
+            "NowPhysicalNum": "R20230626001"
+        },
+        {
+            "UserName": "cess",
+            "NowPhysicalNum": "R20230524001"
+        },
+        {
+            "UserName": "江49",
+            "NowPhysicalNum": "R20230519001"
+        },
+        {
+            "UserName": "许平",
+            "NowPhysicalNum": "R20230428002"
+        },
+        {
+            "UserName": "许平",
+            "NowPhysicalNum": "R20230428001"
+        },
+        {
+            "UserName": "许平",
+            "NowPhysicalNum": "R20230427001"
+        },
+        {
+            "UserName": "江49",
+            "NowPhysicalNum": "R20230424001"
+        },
+        {
+            "UserName": "江49",
+            "NowPhysicalNum": "R20230423003"
+        },
+        {
+            "UserName": "江49",
+            "NowPhysicalNum": "R20230423002"
+        },
+        {
+            "UserName": "江49",
+            "NowPhysicalNum": "R20230423001"
+        },
+        {
+            "UserName": "1",
+            "NowPhysicalNum": "R20230407001"
+        },
+        {
+            "UserName": "康殷",
+            "NowPhysicalNum": "R20230314004"
+        },
+        {
+            "UserName": "康殷",
+            "NowPhysicalNum": "R20230314003"
+        },
+        {
+            "UserName": "郑露",
+            "NowPhysicalNum": "R20170213000001"
+        },
+        {
+            "UserName": "11",
+            "NowPhysicalNum": "R20221207004"
+        },
+        {
+            "UserName": "1",
+            "NowPhysicalNum": "R20221218001"
+        },
+        {
+            "UserName": "常翠梅",
+            "NowPhysicalNum": "R20221205001"
+        },
+        {
+            "UserName": "测试20221202",
+            "NowPhysicalNum": "R20221202001"
+        },
+        {
+            "UserName": "万宝莹",
+            "NowPhysicalNum": "R20221201001"
+        },
+        {
+            "UserName": "万宝莹",
+            "NowPhysicalNum": "R20221125001"
+        },
+        {
+            "UserName": "张三",
+            "NowPhysicalNum": "R20221117001"
+        },
+        {
+            "UserName": "潘俊洋",
+            "NowPhysicalNum": "R20221116004"
+        },
+        {
+            "UserName": "张三",
+            "NowPhysicalNum": "R20221116001"
+        },
+        {
+            "UserName": "测试ee",
+            "NowPhysicalNum": "R20221011002"
+        },
+        {
+            "UserName": "测试拍照",
+            "NowPhysicalNum": "R20221011001"
+        },
+        {
+            "UserName": "测试4",
+            "NowPhysicalNum": "R20220819208"
+        },
+        {
+            "UserName": "测试",
+            "NowPhysicalNum": "R20220818001"
+        },
+        {
+            "UserName": "何思静",
+            "NowPhysicalNum": "R20161207000012"
+        },
+        {
+            "UserName": "张三",
+            "NowPhysicalNum": "R20210429001"
+        },
+        {
+            "UserName": "gz",
+            "NowPhysicalNum": "R20210331002"
+        },
+        {
+            "UserName": "44",
+            "NowPhysicalNum": "R20210325001"
+        },
+        {
+            "UserName": "周和疆",
+            "NowPhysicalNum": "R20210323001"
+        },
+        {
+            "UserName": "周和疆",
+            "NowPhysicalNum": "R20210317001"
+        },
+        {
+            "UserName": "马玉虎",
+            "NowPhysicalNum": "R20161222000002"
+        },
+        {
+            "UserName": "范广侃",
+            "NowPhysicalNum": "R20161221000001"
+        },
+        {
+            "UserName": "黄某某",
+            "NowPhysicalNum": "R20161213000001"
+        },
+        {
+            "UserName": "小张",
+            "NowPhysicalNum": "R20161207000030"
+        },
+        {
+            "UserName": "马玉虎",
+            "NowPhysicalNum": "R20161222000002"
+        },
+        {
+            "UserName": "范广侃",
+            "NowPhysicalNum": "R20161221000001"
+        },
+        {
+            "UserName": "黄某某",
+            "NowPhysicalNum": "R20161213000001"
+        },
+        {
+            "UserName": "小张",
+            "NowPhysicalNum": "R20161207000030"
+        },
+        {
+            "UserName": "户户户户户户户户户户户户户户户户户户户户",
+            "NowPhysicalNum": "R20210106001"
+        },
+        {
+            "UserName": "胡建衡",
+            "NowPhysicalNum": "R20201026001"
+        },
+        {
+            "UserName": "钟礼清",
+            "NowPhysicalNum": "R20161215000019"
+        },
+        {
+            "UserName": "zjcs2",
+            "NowPhysicalNum": "R20200609001"
+        },
+        {
+            "UserName": "张四",
+            "NowPhysicalNum": "R20200701002"
+        },
+        {
+            "UserName": "张三",
+            "NowPhysicalNum": "R20200701001"
+        },
+        {
+            "UserName": "zjcs",
+            "NowPhysicalNum": "R20200427001"
+        },
+        {
+            "UserName": "莫子华",
+            "NowPhysicalNum": "2020060400133"
+        },
+        {
+            "UserName": "刘亚娇",
+            "NowPhysicalNum": "2020060400219"
+        },
+        {
+            "UserName": "杨礼章",
+            "NowPhysicalNum": "2020060400220"
+        },
+        {
+            "UserName": "李娟燕",
+            "NowPhysicalNum": "2020060400035"
+        },
+        {
+            "UserName": "刘湘云",
+            "NowPhysicalNum": "2020060400139"
+        },
+        {
+            "UserName": "刘敬刚",
+            "NowPhysicalNum": "2020060400140"
+        },
+        {
+            "UserName": "职检测试414",
+            "NowPhysicalNum": "20200416165"
+        },
+        {
+            "UserName": "测试职检",
+            "NowPhysicalNum": "20200420193"
+        },
+        {
+            "UserName": "职检测试3",
+            "NowPhysicalNum": "20200326129"
+        },
+        {
+            "UserName": "职检测试",
+            "NowPhysicalNum": "20200321009"
+        },
+        {
+            "UserName": "测试",
+            "NowPhysicalNum": "R20200122001"
+        },
+        {
+            "UserName": "zhan",
+            "NowPhysicalNum": "R20200121001"
+        },
+        {
+            "UserName": "zhan",
+            "NowPhysicalNum": "R20191211001"
+        },
+        {
+            "UserName": "测试",
+            "NowPhysicalNum": "R20191225001"
+        },
+        {
+            "UserName": "张三",
+            "NowPhysicalNum": "R20190618001"
+        },
+        {
+            "UserName": "王二",
+            "NowPhysicalNum": "R20190506001"
+        },
+        {
+            "UserName": "测试",
+            "NowPhysicalNum": "R20180104001"
+        },
+        {
+            "UserName": "老大",
+            "NowPhysicalNum": "R20180103001"
+        },
+        {
+            "UserName": "小星星",
+            "NowPhysicalNum": "R20171229001"
+        },
+        {
+            "UserName": "黄明",
+            "NowPhysicalNum": "R20171225001"
+        },
+        {
+            "UserName": "小方",
+            "NowPhysicalNum": "R20171113001"
+        },
+        {
+            "UserName": "小方",
+            "NowPhysicalNum": "R20171113001"
+        },
+        {
+            "UserName": "张七",
+            "NowPhysicalNum": "R20170804001"
+        },
+        {
+            "UserName": "测试组合收费",
+            "NowPhysicalNum": "201707311638330001X"
+        },
+        {
+            "UserName": "测试3",
+            "NowPhysicalNum": "201704201642280002X"
+        },
+        {
+            "UserName": "方小新",
+            "NowPhysicalNum": "R20170613001"
+        },
+        {
+            "UserName": "护长",
+            "NowPhysicalNum": "R20170602000001"
+        },
+        {
+            "UserName": "陈嘉伽",
+            "NowPhysicalNum": "R20170527000004"
+        },
+        {
+            "UserName": "林创镇",
+            "NowPhysicalNum": "R20170527000002"
+        },
+        {
+            "UserName": "唐焱",
+            "NowPhysicalNum": "R20170527000003"
+        },
+        {
+            "UserName": "刘杏开",
+            "NowPhysicalNum": "R20170527000001"
+        },
+        {
+            "UserName": "刘杏开",
+            "NowPhysicalNum": "R20170526000002"
+        },
+        {
+            "UserName": "刘杏开",
+            "NowPhysicalNum": "R20170526000001"
+        },
+        {
+            "UserName": "测试托幼体检",
+            "NowPhysicalNum": "R20170525000002"
+        },
+        {
+            "UserName": "测试托幼体检",
+            "NowPhysicalNum": "R20170525000001"
+        },
+        {
+            "UserName": "测试托幼",
+            "NowPhysicalNum": "R20170524000001"
+        },
+        {
+            "UserName": "刘杏开",
+            "NowPhysicalNum": "R20170522000001"
+        },
+        {
+            "UserName": "刘杏开",
+            "NowPhysicalNum": "R20170519000001"
+        },
+        {
+            "UserName": "测试体检",
+            "NowPhysicalNum": "R20170518000001"
+        },
+        {
+            "UserName": "张48",
+            "NowPhysicalNum": "R20170517000051"
+        },
+        {
+            "UserName": "肖文潮",
+            "NowPhysicalNum": "R20170223000001"
+        },
+        {
+            "UserName": "钟梅芳",
+            "NowPhysicalNum": "R20170223000002"
+        },
+        {
+            "UserName": "梁康",
+            "NowPhysicalNum": "R20161221000034"
+        },
+        {
+            "UserName": "邹子壕",
+            "NowPhysicalNum": "R20161221000008"
+        },
+        {
+            "UserName": "唐焱",
+            "NowPhysicalNum": "R20161221000003"
+        },
+        {
+            "UserName": "尹珍",
+            "NowPhysicalNum": "R20161215000199"
+        },
+        {
+            "UserName": "何慧芬",
+            "NowPhysicalNum": "R20161215000189"
+        },
+        {
+            "UserName": "李江伟",
+            "NowPhysicalNum": "R20161215000143"
+        },
+        {
+            "UserName": "黄日红",
+            "NowPhysicalNum": "R20161215000141"
+        },
+        {
+            "UserName": "许曙伟",
+            "NowPhysicalNum": "R20161215000161"
+        },
+        {
+            "UserName": "芦忠鹤",
+            "NowPhysicalNum": "R20161215000169"
+        },
+        {
+            "UserName": "陈剑明",
+            "NowPhysicalNum": "R20161215000172"
+        },
+        {
+            "UserName": "陈家俊",
+            "NowPhysicalNum": "R20161215000146"
+        },
+        {
+            "UserName": "黄誉文",
+            "NowPhysicalNum": "R20161215000183"
+        },
+        {
+            "UserName": "张舒婷",
+            "NowPhysicalNum": "R20161215000203"
+        },
+        {
+            "UserName": "王国健",
+            "NowPhysicalNum": "R20161215000180"
+        },
+        {
+            "UserName": "张江云",
+            "NowPhysicalNum": "R20161215000194"
+        },
+        {
+            "UserName": "范宇",
+            "NowPhysicalNum": "R20161215000185"
+        },
+        {
+            "UserName": "郝金国",
+            "NowPhysicalNum": "R20161215000184"
+        },
+        {
+            "UserName": "赵明阳",
+            "NowPhysicalNum": "R20161215000175"
+        },
+        {
+            "UserName": "陈剑",
+            "NowPhysicalNum": "R20161215000176"
+        },
+        {
+            "UserName": "闫贝贝",
+            "NowPhysicalNum": "R20161215000166"
+        },
+        {
+            "UserName": "梁啟舟",
+            "NowPhysicalNum": "R20161215000133"
+        },
+        {
+            "UserName": "刘小华",
+            "NowPhysicalNum": "R20161215000134"
+        },
+        {
+            "UserName": "贾培信",
+            "NowPhysicalNum": "R20161215000136"
+        },
+        {
+            "UserName": "张艳红",
+            "NowPhysicalNum": "R20161215000137"
+        },
+        {
+            "UserName": "黎校平",
+            "NowPhysicalNum": "R20161215000144"
+        },
+        {
+            "UserName": "古松",
+            "NowPhysicalNum": "R20161215000147"
+        },
+        {
+            "UserName": "黄冀",
+            "NowPhysicalNum": "R20161215000149"
+        },
+        {
+            "UserName": "覃光森",
+            "NowPhysicalNum": "R20161215000151"
+        },
+        {
+            "UserName": "姚捷鑫",
+            "NowPhysicalNum": "R20161215000152"
+        },
+        {
+            "UserName": "黎剑程",
+            "NowPhysicalNum": "R20161215000153"
+        },
+        {
+            "UserName": "许泽辉",
+            "NowPhysicalNum": "R20161215000154"
+        },
+        {
+            "UserName": "林伟强",
+            "NowPhysicalNum": "R20161215000155"
+        },
+        {
+            "UserName": "许志祥",
+            "NowPhysicalNum": "R20161215000157"
+        },
+        {
+            "UserName": "黄育辉",
+            "NowPhysicalNum": "R20161215000158"
+        },
+        {
+            "UserName": "刘涛",
+            "NowPhysicalNum": "R20161215000159"
+        },
+        {
+            "UserName": "黄怡朝",
+            "NowPhysicalNum": "R20161215000167"
+        },
+        {
+            "UserName": "陈海松",
+            "NowPhysicalNum": "R20161215000160"
+        },
+        {
+            "UserName": "刘天成",
+            "NowPhysicalNum": "R20161215000170"
+        },
+        {
+            "UserName": "杜方方",
+            "NowPhysicalNum": "R20161215000202"
+        },
+        {
+            "UserName": "陈海琪",
+            "NowPhysicalNum": "R20161215000205"
+        },
+        {
+            "UserName": "林创镇",
+            "NowPhysicalNum": "R20161221000002"
+        },
+        {
+            "UserName": "陈嘉伽",
+            "NowPhysicalNum": "R20161221000004"
+        },
+        {
+            "UserName": "邱嘉梁",
+            "NowPhysicalNum": "R20161221000005"
+        },
+        {
+            "UserName": "蔡柳生",
+            "NowPhysicalNum": "R20161221000006"
+        },
+        {
+            "UserName": "严卫俊",
+            "NowPhysicalNum": "R20161221000007"
+        },
+        {
+            "UserName": "黄志华",
+            "NowPhysicalNum": "R20161221000012"
+        },
+        {
+            "UserName": "王甘水",
+            "NowPhysicalNum": "R20161221000016"
+        },
+        {
+            "UserName": "温忠亮",
+            "NowPhysicalNum": "R20161221000017"
+        },
+        {
+            "UserName": "江跃锋",
+            "NowPhysicalNum": "R20161221000019"
+        },
+        {
+            "UserName": "刘振兴",
+            "NowPhysicalNum": "R20161221000020"
+        },
+        {
+            "UserName": "曾卡武",
+            "NowPhysicalNum": "R20161221000022"
+        },
+        {
+            "UserName": "邱志朋",
+            "NowPhysicalNum": "R20161221000026"
+        },
+        {
+            "UserName": "梁钟基",
+            "NowPhysicalNum": "R20161221000033"
+        },
+        {
+            "UserName": "佃培森",
+            "NowPhysicalNum": "R20161215000206"
+        },
+        {
+            "UserName": "钟翔宇",
+            "NowPhysicalNum": "R20161216000001"
+        },
+        {
+            "UserName": "郭子义",
+            "NowPhysicalNum": "R20161216000002"
+        },
+        {
+            "UserName": "唐志雄",
+            "NowPhysicalNum": "R20161221000009"
+        },
+        {
+            "UserName": "李峰",
+            "NowPhysicalNum": "R20161221000011"
+        },
+        {
+            "UserName": "陈云聪",
+            "NowPhysicalNum": "R20161221000013"
+        },
+        {
+            "UserName": "罗健龙",
+            "NowPhysicalNum": "R20161221000014"
+        },
+        {
+            "UserName": "刘志威",
+            "NowPhysicalNum": "R20161221000015"
+        },
+        {
+            "UserName": "罗燕辉",
+            "NowPhysicalNum": "R20161221000018"
+        },
+        {
+            "UserName": "朱飞全",
+            "NowPhysicalNum": "R20161221000021"
+        },
+        {
+            "UserName": "麦张兴",
+            "NowPhysicalNum": "R20161221000023"
+        },
+        {
+            "UserName": "梁其锋",
+            "NowPhysicalNum": "R20161221000024"
+        },
+        {
+            "UserName": "何水华",
+            "NowPhysicalNum": "R20161221000025"
+        },
+        {
+            "UserName": "费冬",
+            "NowPhysicalNum": "R20161221000027"
+        },
+        {
+            "UserName": "郭崇安",
+            "NowPhysicalNum": "R20161221000028"
+        },
+        {
+            "UserName": "毛松",
+            "NowPhysicalNum": "R20161221000029"
+        },
+        {
+            "UserName": "徐以恒",
+            "NowPhysicalNum": "R20161221000030"
+        },
+        {
+            "UserName": "钟嘉斌",
+            "NowPhysicalNum": "R20161221000031"
+        },
+        {
+            "UserName": "李伟灿",
+            "NowPhysicalNum": "R20161221000032"
+        },
+        {
+            "UserName": "叶冬青",
+            "NowPhysicalNum": "R20161221000035"
+        },
+        {
+            "UserName": "赵亮",
+            "NowPhysicalNum": "R20161221000036"
+        },
+        {
+            "UserName": "陈勇",
+            "NowPhysicalNum": "R20161221000037"
+        },
+        {
+            "UserName": "杨继营",
+            "NowPhysicalNum": "R20161221000038"
+        },
+        {
+            "UserName": "赵贵俊",
+            "NowPhysicalNum": "R20161221000039"
+        },
+        {
+            "UserName": "范丽亚",
+            "NowPhysicalNum": "R20161221000040"
+        },
+        {
+            "UserName": "陈晓纯",
+            "NowPhysicalNum": "R20161221000041"
+        },
+        {
+            "UserName": "杨婷",
+            "NowPhysicalNum": "R20161221000042"
+        },
+        {
+            "UserName": "林锐欢",
+            "NowPhysicalNum": "R20161221000043"
+        },
+        {
+            "UserName": "谌曦",
+            "NowPhysicalNum": "R20161221000044"
+        },
+        {
+            "UserName": "廖艺玲",
+            "NowPhysicalNum": "R20161221000045"
+        },
+        {
+            "UserName": "罗美玲",
+            "NowPhysicalNum": "R20161221000046"
+        },
+        {
+            "UserName": "熊铸浩",
+            "NowPhysicalNum": "R20161221000047"
+        },
+        {
+            "UserName": "李秋云",
+            "NowPhysicalNum": "R20161221000048"
+        },
+        {
+            "UserName": "赖诗宇",
+            "NowPhysicalNum": "R20161221000049"
+        },
+        {
+            "UserName": "陈舒宇",
+            "NowPhysicalNum": "R20161221000050"
+        },
+        {
+            "UserName": "刘慧琪",
+            "NowPhysicalNum": "R20161221000051"
+        },
+        {
+            "UserName": "邱碧桃",
+            "NowPhysicalNum": "R20161221000052"
+        },
+        {
+            "UserName": "许旭晅",
+            "NowPhysicalNum": "R20161215000131"
+        },
+        {
+            "UserName": "钟志明",
+            "NowPhysicalNum": "R20161215000132"
+        },
+        {
+            "UserName": "张勇",
+            "NowPhysicalNum": "R20161215000135"
+        },
+        {
+            "UserName": "黄智杰",
+            "NowPhysicalNum": "R20161215000139"
+        },
+        {
+            "UserName": "李双",
+            "NowPhysicalNum": "R20161215000142"
+        },
+        {
+            "UserName": "黄学鹏",
+            "NowPhysicalNum": "R20161215000145"
+        },
+        {
+            "UserName": "吴永兴",
+            "NowPhysicalNum": "R20161215000148"
+        },
+        {
+            "UserName": "段波",
+            "NowPhysicalNum": "R20161215000150"
+        },
+        {
+            "UserName": "陈伟",
+            "NowPhysicalNum": "R20161215000162"
+        },
+        {
+            "UserName": "杨光辉",
+            "NowPhysicalNum": "R20161215000163"
+        },
+        {
+            "UserName": "曾杰文",
+            "NowPhysicalNum": "R20161215000164"
+        },
+        {
+            "UserName": "周红伟",
+            "NowPhysicalNum": "R20161215000165"
+        },
+        {
+            "UserName": "洪华斌",
+            "NowPhysicalNum": "R20161215000168"
+        },
+        {
+            "UserName": "李露岐",
+            "NowPhysicalNum": "R20161215000171"
+        },
+        {
+            "UserName": "钟嘉仪",
+            "NowPhysicalNum": "R20161215000173"
+        },
+        {
+            "UserName": "张颖康",
+            "NowPhysicalNum": "R20161215000174"
+        },
+        {
+            "UserName": "钟伟",
+            "NowPhysicalNum": "R20161215000177"
+        },
+        {
+            "UserName": "张紫扬",
+            "NowPhysicalNum": "R20161215000178"
+        },
+        {
+            "UserName": "王宇航",
+            "NowPhysicalNum": "R20161215000179"
+        },
+        {
+            "UserName": "刘伙添",
+            "NowPhysicalNum": "R20161215000181"
+        },
+        {
+            "UserName": "曾湘玉",
+            "NowPhysicalNum": "R20161215000192"
+        },
+        {
+            "UserName": "黄汉进",
+            "NowPhysicalNum": "R20161215000182"
+        },
+        {
+            "UserName": "张景婷",
+            "NowPhysicalNum": "R20161215000186"
+        },
+        {
+            "UserName": "罗玉丽",
+            "NowPhysicalNum": "R20161215000193"
+        },
+        {
+            "UserName": "林嘉祺",
+            "NowPhysicalNum": "R20161215000187"
+        },
+        {
+            "UserName": "胡良",
+            "NowPhysicalNum": "R20161215000188"
+        },
+        {
+            "UserName": "陈斯婷",
+            "NowPhysicalNum": "R20161215000190"
+        },
+        {
+            "UserName": "龚俊霞",
+            "NowPhysicalNum": "R20161215000191"
+        },
+        {
+            "UserName": "郑建丽",
+            "NowPhysicalNum": "R20161215000196"
+        },
+        {
+            "UserName": "何翠婷",
+            "NowPhysicalNum": "R20161215000197"
+        },
+        {
+            "UserName": "钟维",
+            "NowPhysicalNum": "R20161215000198"
+        },
+        {
+            "UserName": "王海玲",
+            "NowPhysicalNum": "R20161215000200"
+        },
+        {
+            "UserName": "单洪亭",
+            "NowPhysicalNum": "R20161215000204"
+        },
+        {
+            "UserName": "吴亮",
+            "NowPhysicalNum": "R20161215000207"
+        },
+        {
+            "UserName": "潘英霞",
+            "NowPhysicalNum": "R20161219000033"
+        },
+        {
+            "UserName": "张福喜",
+            "NowPhysicalNum": "R20161219000011"
+        },
+        {
+            "UserName": "李瑞桦",
+            "NowPhysicalNum": "R20161219000023"
+        },
+        {
+            "UserName": "邹景",
+            "NowPhysicalNum": "R20161215000140"
+        },
+        {
+            "UserName": "梁银珠",
+            "NowPhysicalNum": "R20161219000027"
+        },
+        {
+            "UserName": "苏建新",
+            "NowPhysicalNum": "R20161219000029"
+        },
+        {
+            "UserName": "陈舒婷",
+            "NowPhysicalNum": "R20161219000034"
+        },
+        {
+            "UserName": "黄某某",
+            "NowPhysicalNum": "R20161213000001"
+        },
+        {
+            "UserName": "小张",
+            "NowPhysicalNum": "R20161207000030"
+        },
+        {
+            "UserName": "zhan",
+            "NowPhysicalNum": "R20191211001"
+        },
+        {
+            "UserName": "测试组合收费",
+            "NowPhysicalNum": "201707311638330001X"
+        }
+    ],
+    "DataBak": null,
+    "DataEncryption": null
+}

@@ -1,0 +1,34 @@
+.DS_Store
+node_modules
+dist
+FitsAdmin
+FitsAdminDocs
+FitsAdminUI/es
+FitsAdminUI/umd
+FitsAdminUI/favicon.ico
+release
+dist-electron
+libs
+.eslintrc-auto-import.json
+auto-imports.d.ts
+components.d.ts
+.cache
+.temp
+.svn
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

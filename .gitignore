@@ -34,6 +34,6 @@ yarn-error.log*
 *.sw?
 *.vscode
 *.vite
-*.env
+.env
 
 backend/__pycache__

@@ -7,7 +7,7 @@ services:
       dockerfile: Dockerfile
     
     env_file:
-      - .env
+      - ./backend/.env
     
     # or 
     # environment:
@@ -23,5 +23,7 @@ services:
       build:
         context: ./frontend
         dockerfile: Dockerfile
+      volumes:
+        - ./frontend/FitsAdmin:/app/FitsAdmin
       ports:
         - "5173:3000"

@@ -1,10 +1,10 @@
 window.systemConfig = {
     // 接口地址
-    api_url: 'http://192.168.14.245:8032/',
+    api_url: 'http://192.168.32.51:8032/',
     yidong_url: 'http://183.234.96.206:9878/process_reportV1/',
     // yidong_url: 'http://192.168.14.89:8000/process_report/',
     // kimichat对应的接口地址
-    websocket_url: 'ws://192.168.14.89:8000/process_report',
+    websocket_url: 'ws://192.168.32.60:7001/process_report',
     // 流水号，唯一标识
     NowPhysicalNum: 'R20161221000037',
     titleStyle: {

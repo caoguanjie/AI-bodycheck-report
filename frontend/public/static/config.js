@@ -4,7 +4,7 @@ window.systemConfig = {
     yidong_url: 'http://183.234.96.206:9878/process_reportV1/',
     // yidong_url: 'http://192.168.14.89:8000/process_report/',
     // kimichat对应的接口地址
-    websocket_url: 'ws://192.168.14.89:7001/process_report',
+    websocket_url: 'ws://192.168.14.89:8000/process_report',
     // 流水号，唯一标识
     NowPhysicalNum: 'R20161221000037',
     titleStyle: {
@@ -21,6 +21,8 @@ window.systemConfig = {
     // ai接口的key
     API_KEY: "",
     // ai的模版消息
-    Template: ''
+    Template: '',
+    // 流式接口,前端打印效果时间间隔，消费的间隔采用动态计算的方式，尽可能保证队列中的剩余字符能在两秒钟内消费完
+    streamSpeed: 2000
 
 }

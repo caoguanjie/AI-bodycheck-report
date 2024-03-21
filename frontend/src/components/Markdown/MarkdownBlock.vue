@@ -41,6 +41,7 @@ function onHtmlChanged() {
   font-size: 14px;
   color: #333;
 
+  h1,
   h2 {
     height: 36px;
     line-height: 36px;

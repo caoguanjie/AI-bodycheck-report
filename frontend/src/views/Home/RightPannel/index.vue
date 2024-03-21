@@ -39,6 +39,7 @@ import { isArray } from 'lodash';
 import { LLMApi, YDApi } from '../LeftPannel/components/data.model';
 import useStore from '@/store';
 import { useWebSocket } from '@/utils/base/websocket'
+import { Typewriter } from '@/utils/base/typewriter';
 const logo = new URL('../../../assets/AI/bot.png', import.meta.url).href;
 const scrollHeight = ref(400);
 const isEdit = ref(false);
@@ -47,7 +48,7 @@ const loadingExport = ref(false);
 const reportContent = ref('');
 const pdfRef = ref<any>(null);
 const { user } = useStore()
-const { connect, disconnect, send, messages, connected } = useWebSocket();
+const { connect, errorMsg, disconnect, send, messages, connected } = useWebSocket();
 const exportPDFOption = {
     filename: "AI体检报告分析.pdf",
     html2canvas: {
@@ -63,13 +64,28 @@ const exportPDFOption = {
     }
 
 }
+
+const typewriter = new Typewriter((str: string) => {
+    reportContent.value += str || ''
+})
 watch(() => messages.value, (newVal) => {
     loading.value = false
-    reportContent.value = newVal
+    typewriter.add(newVal)
+    // reportContent.value = newVal
+})
+watch(() => errorMsg.value, (newVal) => {
+    loading.value = false
+    typewriter.add(newVal)
+    // reportContent.value = newVal
 })
 watch(() => connected.value, (newVal) => {
     if (!newVal && window.systemConfig.AI_TYPE === 2) {
-        connect()
+        connect();
+    }
+    if (!newVal) {
+        // 链接失败的时候就结束
+        loading.value = false,
+            typewriter.done()
     }
 })
 onMounted(() => {
@@ -151,10 +167,13 @@ function moonshotLLM(content: any) {
         ElMessage.error('Ai链接失败，请联系开发者')
         return
     }
+    reportContent.value = '';
     loading.value = true
     const params = new LLMApi({
         user_content: new YDApi({ reportData: content })
     })
+    // 打印开始
+    typewriter.start();
     send(params)
 }
 

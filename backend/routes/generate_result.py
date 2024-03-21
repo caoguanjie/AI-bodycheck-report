@@ -93,7 +93,7 @@ async def stream_code(websocket: WebSocket):
             collected_messages.append(chunk_message)  # save the message
             content1 = "".join([m.content for m in collected_messages])
             print(f"#{idx}: {content1}")
-            await process_chunk(content1)
+            await process_chunk(chunk_message.content)
 
     except Exception as e:
         traceback.print_exc()

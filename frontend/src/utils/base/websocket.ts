@@ -3,7 +3,8 @@ export const useWebSocket = () => {
     const socket = ref<any>(null);
     const connected = ref(false);
     const messages = ref("");
-
+    // 错误消息
+    const errorMsg = ref("");
     const connect = () => {
 
 
@@ -18,7 +19,9 @@ export const useWebSocket = () => {
             const result = JSON.parse(response.data)
             if (result.type === "success") {
                 messages.value = result.value
-
+            } else {
+                errorMsg.value = result.value
+                ElMessage.error('检查项目过多，AI分析失败')
             }
         };
         socket.value.onclose = () => {
@@ -47,5 +50,5 @@ export const useWebSocket = () => {
             socket.value.close();
         }
     };
-    return { socket, connected, messages, connect, send, disconnect };
+    return { socket, errorMsg, connected, messages, connect, send, disconnect };
 };

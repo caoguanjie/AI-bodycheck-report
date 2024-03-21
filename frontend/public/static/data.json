@@ -1,0 +1,1183 @@
+{
+    "RslCode": "1",
+    "RslMsg": "查询成功",
+    "Data": [{
+            "ComposeID": "250101015*2",
+            "ComposeName": "血常规-五分类",
+            "BriefSummary": "",
+            "Advice": "",
+            "ItemList": [{
+                    "ComposeID": "250101015*2",
+                    "ItemID": "08100",
+                    "ItemName": "嗜碱性粒细胞百分比(BASO%)",
+                    "ItemUnit": "%",
+                    "Value": "0.3",
+                    "HighValue": "1",
+                    "LowValue": "0",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250101015*2",
+                    "ItemID": "08121",
+                    "ItemName": "白细胞总数(WBC)",
+                    "ItemUnit": "*10^9/L",
+                    "Value": "9.06",
+                    "HighValue": "9.5",
+                    "LowValue": "3.5",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250101015*2",
+                    "ItemID": "08099",
+                    "ItemName": "嗜碱性粒细胞绝对值(BASO#)",
+                    "ItemUnit": "*10^9/L",
+                    "Value": "0.02",
+                    "HighValue": "0.06",
+                    "LowValue": "0",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250101015*2",
+                    "ItemID": "08117",
+                    "ItemName": "血小板总数(PLT)",
+                    "ItemUnit": "*10^9/L",
+                    "Value": "400",
+                    "HighValue": "350",
+                    "LowValue": "125",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250101015*2",
+                    "ItemID": "08107",
+                    "ItemName": "淋巴细胞百分比(LY%)",
+                    "ItemUnit": null,
+                    "Value": "31.3",
+                    "HighValue": "50",
+                    "LowValue": "20",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250101015*2",
+                    "ItemID": "081051",
+                    "ItemName": "红细胞比积(BC)(HCT)",
+                    "ItemUnit": "%",
+                    "Value": "43.7",
+                    "HighValue": "45",
+                    "LowValue": "35",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250101015*2",
+                    "ItemID": "08110",
+                    "ItemName": "红细胞平均血红蛋白浓度(MCHC)",
+                    "ItemUnit": "g/L",
+                    "Value": "319",
+                    "HighValue": "354",
+                    "LowValue": "316",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250101015*2",
+                    "ItemID": "08104",
+                    "ItemName": "中性粒细胞绝对值(NEUT#)",
+                    "ItemUnit": "*10^9/L",
+                    "Value": "5.71",
+                    "HighValue": "6.3",
+                    "LowValue": "1.8",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250101015*2",
+                    "ItemID": "08108",
+                    "ItemName": "淋巴细胞绝对值(LY#)",
+                    "ItemUnit": "*10^9/L",
+                    "Value": "2.84",
+                    "HighValue": "3.2",
+                    "LowValue": "1.1",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250101015*2",
+                    "ItemID": "08115",
+                    "ItemName": "血小板分布宽度(PDW)",
+                    "ItemUnit": "fL",
+                    "Value": "16.1",
+                    "HighValue": "17",
+                    "LowValue": "8",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250101015*2",
+                    "ItemID": "09367",
+                    "ItemName": "红细胞体积分布宽度变异系数(RDW_CV)",
+                    "ItemUnit": null,
+                    "Value": "12.7",
+                    "HighValue": "16.0",
+                    "LowValue": "11.0",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250101015*2",
+                    "ItemID": "08101",
+                    "ItemName": "嗜酸性粒细胞绝对值(EO#)",
+                    "ItemUnit": "*10^9/L",
+                    "Value": "0.16",
+                    "HighValue": "0.52",
+                    "LowValue": "0.02",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250101015*2",
+                    "ItemID": "08102",
+                    "ItemName": "嗜酸性粒细胞百分比(EO%)",
+                    "ItemUnit": "%",
+                    "Value": "1.7",
+                    "HighValue": "8",
+                    "LowValue": "0.4",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250101015*2",
+                    "ItemID": "08103",
+                    "ItemName": "中性粒细胞百分比(NEUTr%)",
+                    "ItemUnit": "%",
+                    "Value": "63.0",
+                    "HighValue": "75",
+                    "LowValue": "40",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250101015*2",
+                    "ItemID": "08114",
+                    "ItemName": "平均血小板容积(MPV)",
+                    "ItemUnit": "fL",
+                    "Value": "9.5",
+                    "HighValue": "12.5",
+                    "LowValue": "6.5",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250101015*2",
+                    "ItemID": "08120",
+                    "ItemName": "红细胞体积标准差(RDW_SD)",
+                    "ItemUnit": "fL",
+                    "Value": "46.8",
+                    "HighValue": "56",
+                    "LowValue": "35",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250101015*2",
+                    "ItemID": "08109",
+                    "ItemName": "红细胞平均血红蛋白量(MCH)",
+                    "ItemUnit": "pg",
+                    "Value": "28.1",
+                    "HighValue": "34",
+                    "LowValue": "27",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250101015*2",
+                    "ItemID": "08106",
+                    "ItemName": "血红蛋白(HGB)",
+                    "ItemUnit": "g/L",
+                    "Value": "139",
+                    "HighValue": "150",
+                    "LowValue": "115",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250101015*2",
+                    "ItemID": "08111",
+                    "ItemName": "红细胞平均容积(MCV)",
+                    "ItemUnit": "fL",
+                    "Value": "88.0",
+                    "HighValue": "100",
+                    "LowValue": "82",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250101015*2",
+                    "ItemID": "08112",
+                    "ItemName": "单核细胞百分比(MO%)",
+                    "ItemUnit": "%",
+                    "Value": "3.7",
+                    "HighValue": "10",
+                    "LowValue": "3",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250101015*2",
+                    "ItemID": "08118",
+                    "ItemName": "红细胞总数(RBC)",
+                    "ItemUnit": "*10^12/L",
+                    "Value": "4.97",
+                    "HighValue": "5.1",
+                    "LowValue": "3.8",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250101015*2",
+                    "ItemID": "09368",
+                    "ItemName": "血小板比容(PCT)",
+                    "ItemUnit": null,
+                    "Value": "0.379",
+                    "HighValue": null,
+                    "LowValue": null,
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250101015*2",
+                    "ItemID": "08113",
+                    "ItemName": "单核细胞绝对值(MO#)",
+                    "ItemUnit": "*10^9/L",
+                    "Value": "0.34",
+                    "HighValue": "0.6",
+                    "LowValue": "0.1",
+                    "MaxValue": null,
+                    "MinValue": null
+                }
+            ]
+        },
+        {
+            "ComposeID": "250302001-2",
+            "ComposeName": "葡萄糖测定(各种酶法)",
+            "BriefSummary": "未见异常",
+            "Advice": null,
+            "ItemList": [{
+                "ComposeID": "250302001-2",
+                "ItemID": "07216",
+                "ItemName": "空腹血糖(【互】GLU)",
+                "ItemUnit": "mmol/L",
+                "Value": "5.5",
+                "HighValue": "6.1",
+                "LowValue": "3.9",
+                "MaxValue": null,
+                "MinValue": null
+            }]
+        },
+        {
+            "ComposeID": "250403025-1",
+            "ComposeName": "EB病毒抗体测定(各种免疫学方法)",
+            "BriefSummary": "未见异常",
+            "Advice": null,
+            "ItemList": [{
+                "ComposeID": "250403025-1",
+                "ItemID": "01100",
+                "ItemName": "EB病毒衣壳抗原IgA抗体",
+                "ItemUnit": null,
+                "Value": "阴性(-)",
+                "HighValue": "",
+                "LowValue": "",
+                "MaxValue": null,
+                "MinValue": null
+            }]
+        },
+        {
+            "ComposeID": "250903",
+            "ComposeName": "乙肝二对半",
+            "BriefSummary": "未见异常",
+            "Advice": null,
+            "ItemList": [{
+                    "ComposeID": "250903",
+                    "ItemID": "01047",
+                    "ItemName": "核心抗体(HBcAb)",
+                    "ItemUnit": null,
+                    "Value": "阳性(+)",
+                    "HighValue": "阴性(-)",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250903",
+                    "ItemID": "01043",
+                    "ItemName": "表面抗原(HBsAg)",
+                    "ItemUnit": null,
+                    "Value": "阴性(-)",
+                    "HighValue": "阴性(-)",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250903",
+                    "ItemID": "01044",
+                    "ItemName": "表面抗体(HBsAb)",
+                    "ItemUnit": null,
+                    "Value": "阳性(+)",
+                    "HighValue": "阴性(-)",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250903",
+                    "ItemID": "01045",
+                    "ItemName": "e抗原(HBeAg)",
+                    "ItemUnit": null,
+                    "Value": "阴性(-)",
+                    "HighValue": "阴性(-)",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250903",
+                    "ItemID": "01046",
+                    "ItemName": "e抗体(HBeAb)",
+                    "ItemUnit": null,
+                    "Value": "阴性(-)",
+                    "HighValue": "阴性(-)",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                }
+            ]
+        },
+        {
+            "ComposeID": "250935-1",
+            "ComposeName": "肿瘤二项(含AFP、CEA）",
+            "BriefSummary": "未见异常",
+            "Advice": null,
+            "ItemList": [{
+                    "ComposeID": "250935-1",
+                    "ItemID": "04062",
+                    "ItemName": "癌胚抗原",
+                    "ItemUnit": "ng/mL",
+                    "Value": "2.08",
+                    "HighValue": "5",
+                    "LowValue": "0",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "250935-1",
+                    "ItemID": "04061",
+                    "ItemName": "甲胎蛋白",
+                    "ItemUnit": "ng/mL",
+                    "Value": "2.07",
+                    "HighValue": "9",
+                    "LowValue": "0",
+                    "MaxValue": null,
+                    "MinValue": null
+                }
+            ]
+        },
+        {
+            "ComposeID": "251017",
+            "ComposeName": "尿液分析+镜检",
+            "BriefSummary": "白细胞[生化]1+,",
+            "Advice": null,
+            "ItemList": [{
+                    "ComposeID": "251017",
+                    "ItemID": "08036",
+                    "ItemName": "尿糖",
+                    "ItemUnit": "mmol/L",
+                    "Value": "-",
+                    "HighValue": "",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251017",
+                    "ItemID": "08136",
+                    "ItemName": "尿红细胞[镜检]",
+                    "ItemUnit": "个/HP",
+                    "Value": "-",
+                    "HighValue": "3",
+                    "LowValue": "0",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251017",
+                    "ItemID": "08020",
+                    "ItemName": "胆红素",
+                    "ItemUnit": "umol/L",
+                    "Value": "-",
+                    "HighValue": "",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251017",
+                    "ItemID": "08021",
+                    "ItemName": "尿酮体",
+                    "ItemUnit": "mmol/L",
+                    "Value": "-",
+                    "HighValue": "",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251017",
+                    "ItemID": "08026",
+                    "ItemName": "维生素C",
+                    "ItemUnit": "mmol/L",
+                    "Value": "-",
+                    "HighValue": null,
+                    "LowValue": "阴性",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251017",
+                    "ItemID": "08022",
+                    "ItemName": "尿比重",
+                    "ItemUnit": null,
+                    "Value": ">1.030",
+                    "HighValue": "1.03",
+                    "LowValue": "1.003",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251017",
+                    "ItemID": "08025",
+                    "ItemName": "尿蛋白",
+                    "ItemUnit": "g/L",
+                    "Value": "+-",
+                    "HighValue": null,
+                    "LowValue": "阴性",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251017",
+                    "ItemID": "08023",
+                    "ItemName": "尿酸碱度",
+                    "ItemUnit": null,
+                    "Value": "5.5",
+                    "HighValue": "8",
+                    "LowValue": "4.6",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251017",
+                    "ItemID": "08024",
+                    "ItemName": "亚硝酸盐",
+                    "ItemUnit": null,
+                    "Value": "-",
+                    "HighValue": null,
+                    "LowValue": null,
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251017",
+                    "ItemID": "08135",
+                    "ItemName": "尿白细胞[镜检]",
+                    "ItemUnit": "个/HP",
+                    "Value": "-/+",
+                    "HighValue": "5",
+                    "LowValue": "0",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251017",
+                    "ItemID": "08035",
+                    "ItemName": "尿隐血",
+                    "ItemUnit": "分类变量",
+                    "Value": "-",
+                    "HighValue": "",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251017",
+                    "ItemID": "08034",
+                    "ItemName": "尿胆原",
+                    "ItemUnit": "umol/L",
+                    "Value": "Normal",
+                    "HighValue": null,
+                    "LowValue": null,
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251017",
+                    "ItemID": "08027",
+                    "ItemName": "白细胞[生化]",
+                    "ItemUnit": "个/HP",
+                    "Value": "1+",
+                    "HighValue": "",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                }
+            ]
+        },
+        {
+            "ComposeID": "701501",
+            "ComposeName": "常规心电图检查(十二通道)",
+            "BriefSummary": "正常心电图。\n",
+            "Advice": null,
+            "ItemList": [{
+                "ComposeID": "701501",
+                "ItemID": "310701001*3",
+                "ItemName": "常规心电图检查",
+                "ItemUnit": null,
+                "Value": "1.心电轴:不偏 。\n\n2.P波顺序发生, 形态、时限、振幅未见异常。\n\n3.各导联QRS波群形态、时限、振幅未见异常。\n\n4.ST-T:未见异常\n\n",
+                "HighValue": "",
+                "LowValue": "",
+                "MaxValue": null,
+                "MinValue": null
+            }]
+        },
+        {
+            "ComposeID": "251043",
+            "ComposeName": "（体检科）肝功Ⅰ组",
+            "BriefSummary": "白/球比值偏低 1.14",
+            "Advice": null,
+            "ItemList": [{
+                    "ComposeID": "251043",
+                    "ItemID": "07223",
+                    "ItemName": "天门冬氨酸氨基转移酶",
+                    "ItemUnit": "U/L",
+                    "Value": "12",
+                    "HighValue": "35",
+                    "LowValue": "13",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251043",
+                    "ItemID": "07315",
+                    "ItemName": "碱性磷酸酶",
+                    "ItemUnit": "U/L",
+                    "Value": "62",
+                    "HighValue": "153",
+                    "LowValue": "36",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251043",
+                    "ItemID": "07204",
+                    "ItemName": "白/球比值",
+                    "ItemUnit": null,
+                    "Value": "1.14",
+                    "HighValue": "2.4",
+                    "LowValue": "1.2",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251043",
+                    "ItemID": "07290",
+                    "ItemName": "天门冬氨酸氨基转移酶/丙氨酸氨基转移酶",
+                    "ItemUnit": null,
+                    "Value": "0.4",
+                    "HighValue": null,
+                    "LowValue": null,
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251043",
+                    "ItemID": "07314",
+                    "ItemName": "乳酸脱氢酶",
+                    "ItemUnit": "U/L",
+                    "Value": "213",
+                    "HighValue": "245",
+                    "LowValue": "105",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251043",
+                    "ItemID": "07209",
+                    "ItemName": "r-谷氨酰基转移酶",
+                    "ItemUnit": "U/L",
+                    "Value": "44",
+                    "HighValue": "45",
+                    "LowValue": "7",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251043",
+                    "ItemID": "07208",
+                    "ItemName": "丙氨酸氨基转移酶(【互】ALT)",
+                    "ItemUnit": "U/L",
+                    "Value": "33",
+                    "HighValue": "40",
+                    "LowValue": "7",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251043",
+                    "ItemID": "07201",
+                    "ItemName": "总蛋白",
+                    "ItemUnit": "g/L",
+                    "Value": "78.7",
+                    "HighValue": "85.0",
+                    "LowValue": "65.0",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251043",
+                    "ItemID": "07312",
+                    "ItemName": "总胆汁酸",
+                    "ItemUnit": "umol/L",
+                    "Value": "3.84",
+                    "HighValue": "15",
+                    "LowValue": "0",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251043",
+                    "ItemID": "Item_3199",
+                    "ItemName": "【互】ALB",
+                    "ItemUnit": null,
+                    "Value": "42",
+                    "HighValue": "50",
+                    "LowValue": "35",
+                    "MaxValue": null,
+                    "MinValue": null
+                }
+            ]
+        },
+        {
+            "ComposeID": "251042",
+            "ComposeName": "（体检科）血脂五项",
+            "BriefSummary": "低密度脂蛋白胆固醇偏高 3.77mmol/L,",
+            "Advice": null,
+            "ItemList": [{
+                    "ComposeID": "251042",
+                    "ItemID": "07222",
+                    "ItemName": "甘油三脂",
+                    "ItemUnit": "mmol/L",
+                    "Value": "1.93",
+                    "HighValue": "2.3",
+                    "LowValue": "0.23",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251042",
+                    "ItemID": "07298",
+                    "ItemName": "脂蛋白a",
+                    "ItemUnit": "mg/l",
+                    "Value": "113.5",
+                    "HighValue": "300",
+                    "LowValue": "0",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251042",
+                    "ItemID": "07221",
+                    "ItemName": "总胆固醇",
+                    "ItemUnit": "mmol/L",
+                    "Value": "5.79",
+                    "HighValue": "6.0",
+                    "LowValue": "2.9",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251042",
+                    "ItemID": "07227",
+                    "ItemName": "高密度脂蛋白胆固醇",
+                    "ItemUnit": "mmol/L",
+                    "Value": "1.67",
+                    "HighValue": "1.96",
+                    "LowValue": "0.83",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251042",
+                    "ItemID": "07228",
+                    "ItemName": "低密度脂蛋白胆固醇",
+                    "ItemUnit": "mmol/L",
+                    "Value": "3.77",
+                    "HighValue": "3.11",
+                    "LowValue": "2.07",
+                    "MaxValue": null,
+                    "MinValue": null
+                }
+            ]
+        },
+        {
+            "ComposeID": "270800004",
+            "ComposeName": "液基薄层细胞制片术",
+            "BriefSummary": "未见上皮内病变或恶性病变（NILM）。",
+            "Advice": null,
+            "ItemList": [{
+                "ComposeID": "270800004",
+                "ItemID": "270800004",
+                "ItemName": "液基薄层细胞制片术",
+                "ItemUnit": "次",
+                "Value": "",
+                "HighValue": null,
+                "LowValue": null,
+                "MaxValue": null,
+                "MinValue": null
+            }]
+        },
+        {
+            "ComposeID": "251014",
+            "ComposeName": "（体检科）肾功能3项",
+            "BriefSummary": "未见异常",
+            "Advice": null,
+            "ItemList": [{
+                    "ComposeID": "251014",
+                    "ItemID": "07231",
+                    "ItemName": "尿酸",
+                    "ItemUnit": "umol/L",
+                    "Value": "342",
+                    "HighValue": "450",
+                    "LowValue": "150",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251014",
+                    "ItemID": "07232",
+                    "ItemName": "肌酐(【互】Cr)",
+                    "ItemUnit": "umol/L",
+                    "Value": "48",
+                    "HighValue": "97",
+                    "LowValue": "44",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251014",
+                    "ItemID": "07233",
+                    "ItemName": "尿素",
+                    "ItemUnit": "mmol/L",
+                    "Value": "3.74",
+                    "HighValue": "7.14",
+                    "LowValue": "1.43",
+                    "MaxValue": null,
+                    "MinValue": null
+                }
+            ]
+        },
+        {
+            "ComposeID": "251044",
+            "ComposeName": "（体检科）肝功Ⅱ组",
+            "BriefSummary": "总胆红素偏高 28.4umol/L,间接胆红素偏高 22.3umol/L,",
+            "Advice": null,
+            "ItemList": [{
+                    "ComposeID": "251044",
+                    "ItemID": "07234",
+                    "ItemName": "淀粉酶",
+                    "ItemUnit": "U/L",
+                    "Value": "41",
+                    "HighValue": "220",
+                    "LowValue": "0",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251044",
+                    "ItemID": "07240",
+                    "ItemName": "血胆碱脂酶",
+                    "ItemUnit": "U/L",
+                    "Value": "8977",
+                    "HighValue": "13000",
+                    "LowValue": "3500",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251044",
+                    "ItemID": "07207",
+                    "ItemName": "间接胆红素",
+                    "ItemUnit": "umol/L",
+                    "Value": "22.3",
+                    "HighValue": "12.7",
+                    "LowValue": "3.4",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251044",
+                    "ItemID": "07205",
+                    "ItemName": "总胆红素",
+                    "ItemUnit": "umol/L",
+                    "Value": "28.4",
+                    "HighValue": "20.5",
+                    "LowValue": "3.4",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "251044",
+                    "ItemID": "07206",
+                    "ItemName": "直接胆红素",
+                    "ItemUnit": "umol/L",
+                    "Value": "6.1",
+                    "HighValue": "7.8",
+                    "LowValue": "0",
+                    "MaxValue": null,
+                    "MinValue": null
+                }
+            ]
+        },
+        {
+            "ComposeID": "701578",
+            "ComposeName": "妇科彩超（不含图文报告）",
+            "BriefSummary": "子宫肌壁低回声团，考虑子宫小肌瘤。\n宫内节育器位置居中。\n双侧附件区未见明显囊实性包块。\n ",
+            "Advice": null,
+            "ItemList": [{
+                "ComposeID": "701578",
+                "ItemID": "220301001",
+                "ItemName": "彩色多普勒超声常规检查",
+                "ItemUnit": "部位",
+                "Value": "经腹部超声检查：\n子宫前位，大小形态正常，包膜光滑，宫肌层回声不均匀，后壁内见低回声团，大小约11*10mm，边界尚清，后方回声无明显改变。CDFI：周边及内部见少许血流信号。宫内膜厚11mm，宫腔内可见节育器回声，位置居中。宫颈不厚，内回声尚均匀。\n双侧附件区未见明显实性包块。\n子宫直肠陷窝未见液性暗区。\n ",
+                "HighValue": null,
+                "LowValue": null,
+                "MaxValue": null,
+                "MinValue": null
+            }]
+        },
+        {
+            "ComposeID": "Compose2020010018",
+            "ComposeName": "外科检查",
+            "BriefSummary": null,
+            "Advice": null,
+            "ItemList": [{
+                    "ComposeID": "Compose2020010018",
+                    "ItemID": "Item_3039",
+                    "ItemName": "四肢",
+                    "ItemUnit": null,
+                    "Value": "未见异常",
+                    "HighValue": "",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "Compose2020010018",
+                    "ItemID": "Item_3036",
+                    "ItemName": "胸围",
+                    "ItemUnit": "CM",
+                    "Value": "未见异常",
+                    "HighValue": "",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "Compose2020010018",
+                    "ItemID": "Item_3038",
+                    "ItemName": "腰围",
+                    "ItemUnit": null,
+                    "Value": "未见异常",
+                    "HighValue": "",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "Compose2020010018",
+                    "ItemID": "Item_3037",
+                    "ItemName": "脊柱",
+                    "ItemUnit": null,
+                    "Value": "未见异常",
+                    "HighValue": "",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "Compose2020010018",
+                    "ItemID": "Item_3040",
+                    "ItemName": "关节",
+                    "ItemUnit": null,
+                    "Value": "未见异常",
+                    "HighValue": "",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "Compose2020010018",
+                    "ItemID": "Item_3034",
+                    "ItemName": "淋巴结",
+                    "ItemUnit": null,
+                    "Value": "未见异常",
+                    "HighValue": "",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "Compose2020010018",
+                    "ItemID": "Item_3022",
+                    "ItemName": "皮肤",
+                    "ItemUnit": null,
+                    "Value": "未见异常",
+                    "HighValue": "",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "Compose2020010018",
+                    "ItemID": "Item_3042",
+                    "ItemName": "颈部",
+                    "ItemUnit": null,
+                    "Value": "未见异常",
+                    "HighValue": "",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                }
+            ]
+        },
+        {
+            "ComposeID": "Compose2020010015",
+            "ComposeName": "内科检查",
+            "BriefSummary": null,
+            "Advice": null,
+            "ItemList": [{
+                    "ComposeID": "Compose2020010015",
+                    "ItemID": "Item_3031",
+                    "ItemName": "营养状况",
+                    "ItemUnit": null,
+                    "Value": "未见异常",
+                    "HighValue": "",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "Compose2020010015",
+                    "ItemID": "08127",
+                    "ItemName": "其他",
+                    "ItemUnit": null,
+                    "Value": "未见异常",
+                    "HighValue": null,
+                    "LowValue": null,
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "Compose2020010015",
+                    "ItemID": "Item_3026",
+                    "ItemName": "肝脾触诊",
+                    "ItemUnit": null,
+                    "Value": "未见异常",
+                    "HighValue": "",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "Compose2020010015",
+                    "ItemID": "Item_3030",
+                    "ItemName": "腹腔器官",
+                    "ItemUnit": null,
+                    "Value": "未见异常",
+                    "HighValue": "",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "Compose2020010015",
+                    "ItemID": "Item_0024",
+                    "ItemName": "呼吸系统",
+                    "ItemUnit": null,
+                    "Value": "未见异常",
+                    "HighValue": "",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "Compose2020010015",
+                    "ItemID": "Item_3025",
+                    "ItemName": "心脏听诊",
+                    "ItemUnit": null,
+                    "Value": "未见异常",
+                    "HighValue": "",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "Compose2020010015",
+                    "ItemID": "Item_3029",
+                    "ItemName": "神经系统",
+                    "ItemUnit": null,
+                    "Value": "未见异常",
+                    "HighValue": "",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "Compose2020010015",
+                    "ItemID": "Item_0011",
+                    "ItemName": "发育情况",
+                    "ItemUnit": null,
+                    "Value": "未见异常",
+                    "HighValue": "",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "Compose2020010015",
+                    "ItemID": "Item_3027",
+                    "ItemName": "腹部检查",
+                    "ItemUnit": null,
+                    "Value": "未见异常",
+                    "HighValue": "",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "Compose2020010015",
+                    "ItemID": "Item_3024",
+                    "ItemName": "肺部听诊",
+                    "ItemUnit": null,
+                    "Value": "未见异常",
+                    "HighValue": "",
+                    "LowValue": "",
+                    "MaxValue": null,
+                    "MinValue": null
+                }
+            ]
+        },
+        {
+            "ComposeID": "701582",
+            "ComposeName": "彩超(甲状腺及颈部淋巴结)（不含图文报告）",
+            "BriefSummary": "甲状腺未见明显异常。\n双侧颈部未见明显异常淋巴结。\n ",
+            "Advice": null,
+            "ItemList": [{
+                "ComposeID": "701582",
+                "ItemID": "220301002",
+                "ItemName": "浅表器官彩色多普勒超声检查",
+                "ItemUnit": "每个部位",
+                "Value": "甲状腺大小、形态正常，包膜光滑，内部回声均匀，未见明显局限性团块图像。\n双侧颈动脉鞘周围未见明显异常淋巴结声像。\nCDFI：甲状腺内部见短杆状血流信号。\n ",
+                "HighValue": null,
+                "LowValue": null,
+                "MaxValue": null,
+                "MinValue": null
+            }]
+        },
+        {
+            "ComposeID": "Compose2020010013",
+            "ComposeName": "四测(身高、体重、视力、血压检查)",
+            "BriefSummary": "",
+            "Advice": null,
+            "ItemList": [{
+                    "ComposeID": "Compose2020010013",
+                    "ItemID": "Item_2933",
+                    "ItemName": "收缩压",
+                    "ItemUnit": "mmHg",
+                    "Value": "139",
+                    "HighValue": "139",
+                    "LowValue": "90",
+                    "MaxValue": null,
+                    "MinValue": null
+                },
+                {
+                    "ComposeID": "Compose2020010013",
+                    "ItemID": "Item_2934",
+                    "ItemName": "舒张压",
+                    "ItemUnit": "mmHg",
+                    "Value": "89",
+                    "HighValue": "89",
+                    "LowValue": "60",
+                    "MaxValue": null,
+                    "MinValue": null
+                }
+            ]
+        },
+        {
+            "ComposeID": "701577",
+            "ComposeName": "泌尿系彩超（不含图文报告）",
+            "BriefSummary": "左肾结石。\n右肾、膀胱未见明显异常。\n\n ",
+            "Advice": null,
+            "ItemList": [{
+                "ComposeID": "701577",
+                "ItemID": "220301001",
+                "ItemName": "彩色多普勒超声常规检查",
+                "ItemUnit": "部位",
+                "Value": "左肾大小、形态正常，实质回声均匀，集合系统未见扩张，肾窦内可见强回声团，大小约3*2mm，伴声影。\n右肾大小、形态正常，实质回声均匀，集合系统未见扩张，肾内未见异常回声团。\n双侧输尿管无扩张。\n膀胱充盈一般，内未见异常回声。\nCDFI：双肾血流呈树枝状红蓝彩色分布。\n ",
+                "HighValue": null,
+                "LowValue": null,
+                "MaxValue": null,
+                "MinValue": null
+            }]
+        },
+        {
+            "ComposeID": "701583",
+            "ComposeName": "彩超(乳腺及其引流区淋巴结)（不含图文报告）",
+            "BriefSummary": "双侧乳腺呈多腺体型。\n双侧乳腺声像改变（符合超声BI-RADS 1级）。\n双侧腋窝未见肿大淋巴结声像。\n ",
+            "Advice": null,
+            "ItemList": [{
+                "ComposeID": "701583",
+                "ItemID": "220301002",
+                "ItemName": "浅表器官彩色多普勒超声检查",
+                "ItemUnit": "每个部位",
+                "Value": "双侧乳腺对照探测：\n双侧乳腺各层次结构清，部分乳腺腺体回声增粗、增强，分布不均匀，呈斑片状改变，未见导管扩张，双乳内未见明显局限性团块回声。\n双侧腋窝未见明显肿大淋巴结声像。\nCDFI：双侧乳腺未见异常彩色血流信号。\n ",
+                "HighValue": null,
+                "LowValue": null,
+                "MaxValue": null,
+                "MinValue": null
+            }]
+        },
+        {
+            "ComposeID": "701624",
+            "ComposeName": "(体检科)上腹部彩超（不含图文报告）",
+            "BriefSummary": "脂肪肝声像。\n胆囊结石声像。\n脾、胰未见明显异常。\n ",
+            "Advice": null,
+            "ItemList": [{
+                "ComposeID": "701624",
+                "ItemID": "220301001",
+                "ItemName": "彩色多普勒超声常规检查",
+                "ItemUnit": "部位",
+                "Value": "肝脏形态正常，包膜光滑，肝内回声细密，近场回声增强，远场回声衰减，肝内血管纹理欠清晰。肝内胆管及胆总管上段未见扩张。\n胆囊大小正常，壁欠光滑，囊内可见强回声团，大小约25*7mm，伴声影，改变体位可移动。\n脾不厚，包膜光滑，实质回声均匀。\n胰腺大小、形态正常，轮廓清，实质回声均匀，主胰管无扩张。\nCDFI：肝内未见明显异常血流信号。\n ",
+                "HighValue": null,
+                "LowValue": null,
+                "MaxValue": null,
+                "MinValue": null
+            }]
+        }
+    ],
+    "DataBak": null,
+    "DataEncryption": null
+}

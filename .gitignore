@@ -16,8 +16,8 @@ components.d.ts
 .temp
 .svn
 # local env files
-.env.local
-.env.*.local
+# .env.local
+# .env.*.local
 
 # Log files
 npm-debug.log*
@@ -34,6 +34,6 @@ yarn-error.log*
 *.sw?
 *.vscode
 *.vite
-.env
+# .env
 
 backend/__pycache__

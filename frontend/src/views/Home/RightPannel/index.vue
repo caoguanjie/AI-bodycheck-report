@@ -203,13 +203,13 @@ function YiDongLLM(content: any) {
             res.data.forEach((element: any) => {
                 switch (element.type) {
                     case '0':
-                        content += `## ${window.systemConfig.titleStyle.green} \n ${element.content}\n`;
+                        content += `## ${window.systemConfig.titleStyle.green} \n ${element.content || '无'}\n`;
                         break;
                     case '1':
-                        content += `## ${window.systemConfig.titleStyle.blue} \n ${element.content}\n`;
+                        content += `## ${window.systemConfig.titleStyle.blue} \n ${element.content || '无'}\n`;
                         break;
                     case '2':
-                        content += `## ${window.systemConfig.titleStyle.purple} \n ${element.content}\n`;
+                        content += `## ${window.systemConfig.titleStyle.purple} \n ${element.content || '无'}\n`;
                         break;
                     default:
                         break;

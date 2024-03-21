@@ -75,3 +75,12 @@ export function GetInspectionResult(params: any) {
     })
 }
 
+// 获取手动录入的信息
+export function GetManualEntry() {
+    return http({
+        baseURL: "./",
+        url: '/static/data.json',
+        method: 'get',
+        isLoading: false
+    })
+}

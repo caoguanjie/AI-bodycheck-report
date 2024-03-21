@@ -15,7 +15,8 @@
 
         </el-radio-group>
         <el-scrollbar :height="scrollHeight" style="min-height: 400px;">
-            <el-form :model="dynamicForm" label-width="auto" class="accordion-form" ref="formRef">
+            <el-form :model="dynamicForm" label-width="auto" class="accordion-form" ref="formRef"
+                v-if="dynamicForm.ItemList.length">
                 <el-form-item v-for="(domain, index) in dynamicForm.ItemList" :key="index" :prop="domain.ItemID">
 
                     <template #label>
@@ -38,8 +39,7 @@
 
 <script lang='ts' setup>
 import { ArrowUpBold, ArrowDownBold } from '@element-plus/icons-vue'
-import json from '../../../../../public/static/data.json'
-import { GetItemList, ItemList } from './data.model';
+import { ItemList } from './data.model';
 import _ from 'lodash';
 import { FormInstance } from 'element-plus';
 const formRef = ref<FormInstance>()
@@ -47,48 +47,57 @@ const formKey = ref(0);
 const props = withDefaults(defineProps<{
     btnList?: any[]
 }>(), {
-    btnList: () => json.Data.map((item) => new GetItemList({ ...item, isInit: true }))
+    btnList: () => []
 })
 defineExpose({
     reset,
     getFormData
 })
-console.error(props.btnList)
+
 const isOpen = ref(false)
-const radioSelected = ref(props.btnList[0].ComposeID)
+const radioSelected = ref("")
 // 创建一个数组来存储对子元素的引用
 const accordionRadioRef = ref([]);
 // 动态生成的表单
 const dynamicForm = reactive<{
     ItemList: ItemList[]
 }>({
-    ItemList: (props.btnList.find((item) => item.ComposeID === radioSelected.value)).ItemList
+    ItemList: []
 })
+
+
+
 const scrollHeight = ref(400);
-const items = ref(props.btnList)
+const items = ref<any>([])
 // 开始的原始数据
 let itemOldData: any = []
 let widthsArr: any = []
 const visibleItems = computed(() => {
     // 过滤掉不可见的项
-    return items.value.filter(item => item.visible);
+    return items.value.filter((item: any) => item.visible);
 })
 watch(() => formRef.value, () => {
     console.log("视图发生改变了吗", formRef.value)
 })
-watch(radioSelected, (newVal: string) => {
-    dynamicForm.ItemList = (items.value.find((item) => item.ComposeID === newVal)).ItemList;
-    // 通过key刷新组件，获取最新的ref
-    formKey.value += 1;
-})
-onMounted(() => {
-
+watch(() => props.btnList, () => {
+    radioSelected.value = props.btnList[0].ComposeID
+    // dynamicForm.ItemList = (props.btnList.find((item) => item.ComposeID === radioSelected.value)).ItemList
+    items.value = props.btnList
     nextTick(() => {
         const children = accordionRadioRef.value;
         widthsArr = children.map((child: any) => child.$el.offsetWidth);
         updateVisibleItems(widthsArr)
         updateHeight()
     });
+})
+watch(radioSelected, (newVal: string) => {
+    dynamicForm.ItemList = (items.value.find((item: any) => item.ComposeID === newVal)).ItemList;
+    // 通过key刷新组件，获取最新的ref
+    formKey.value += 1;
+})
+onMounted(() => {
+
+
     window.addEventListener('resize', resizeObserver)
 })
 // 计算一次性显示的子元素数量
@@ -112,7 +121,7 @@ const updateVisibleItems = (width?: any) => {
     //         item.visible = true
     //     }
     // })
-    items.value.forEach((item, index) => {
+    items.value.forEach((item: any, index: number) => {
         // item.width = widths[index];
         totalWidth += widths[index] + 12;
         if (totalWidth > parentWidth) {
@@ -149,7 +158,7 @@ function updateHeight() {
 function toggleAccordion() {
     isOpen.value = !isOpen.value;
     if (isOpen.value) {
-        items.value.forEach((item) => {
+        items.value.forEach((item: any) => {
             item.visible = true
         })
     } else {
@@ -181,7 +190,13 @@ function reset() {
 }
 // 获取表单数据，发送给ai分析
 function getFormData() {
-    return items.value.filter((item) => item.ComposeID === radioSelected.value);
+    const formdata = items.value.filter((item: any) => item.ComposeID === radioSelected.value);
+    // 过滤掉没有值的选项
+    formdata[0].ItemList = formdata[0].ItemList.filter((item: ItemList) => {
+        return item.Value
+    })
+    console.log('过滤掉没有值的选项', formdata)
+    return formdata
 }
 
 </script>

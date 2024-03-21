@@ -10,7 +10,7 @@
         </div>
         <el-tabs v-model="activeTabs" class="demo-tabs" @tab-click="handleClick">
             <el-tab-pane label="手工录入" name="0">
-                <AccordionButton ref="accordioRef" />
+                <AccordionButton ref="accordioRef" :btn-list="dataJson" />
                 <el-footer id="tabs-left-footer">
                     <el-button class="reset" @click="reset">重置</el-button>
                     <el-button type="primary" class="confirm" @click="confirm">AI分析</el-button>
@@ -36,16 +36,30 @@ import AccordionButton from './components/AccordionButton.vue'
 import SelectCheck from './components/SelectCheck.vue'
 import { ResultEnum } from '@/utils/http/types';
 import useUserStore from '@/store/base/user';
+import { GetManualEntry } from '@/api/business/ai';
+import { GetItemList } from './components/data.model';
 const logo = new URL('../../../assets/AI/logo.png',
     import.meta.url).href;
 const activeTabs = ref('0')
 const selectCheckRef = ref<any>(null)
 const accordioRef = ref<any>(null)
+const dataJson = ref<any>([])
 function handleClick({ index }: any) {
     if (index === '1') {
         //
     }
 }
+
+
+function getDataJson() {
+    GetManualEntry().then((res: any) => {
+        dataJson.value = res.Data.map((item: any) => new GetItemList({ ...item, isInit: true }))
+    })
+}
+onBeforeMount(() => {
+    getDataJson()
+})
+
 
 function reset() {
     if (activeTabs.value === '1') {
